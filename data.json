@@ -1,0 +1,52 @@
+{
+  "brand": {
+    "title": "STOCKER UNRDIP",
+    "sub": "̶A̶F̶R̶I̶Z̶A̶L̶  - JOO - DZIKRA - DZUL",
+    "tag": "TIDAK ADA ALIANSI, PATUHI STOCKER",
+    "logoText": "UNRDIP SERASI",
+    "logoLink": "https://github.com/FLAME-XD",
+    "foot": "readme.md dev code from flamexyz as joo"
+  },
+  "groups": [
+    {
+      "title": "",
+      "items": [
+        {
+          "icon": "chart",
+          "name": "STOCK OPNAME",
+          "desc": "KITCHEN - FROZEN - DS",
+          "url": "https://docs.google.com/spreadsheets/d/19vD6NEm25E1RDbRO-ZoAGP7Sxk-oRKhIr5hIveCfrTU/edit?gid=0#gid=0"
+        },
+        {
+          "icon": "check",
+          "name": "STOCKER CHECKLIST",
+          "desc": "VERIFIKASI BUAH & SABILA",
+          "url": "https://docs.google.com/spreadsheets/d/1DI26esYwlxWfB2vhqpBOZAzppmIIIhuQMlP_2Vt5Zg0/edit?gid=1532603933#gid=1532603933"
+        },
+        {
+          "icon": "book",
+          "name": "BUKU BELANJA GUDANG",
+          "desc": "PENCATATAN BARANG KELUAR",
+          "url": "https://docs.google.com/spreadsheets/d/1MdFq7YX0ibsPyS4_Wy4Ij78ocQVqhZrRB7HZ9TqwQjA/edit?gid=1237498272#gid=1237498272"
+        }
+      ]
+    },
+    {
+      "title": "",
+      "items": [
+        {
+          "icon": "factory",
+          "name": "INCOMING INTERNAL",
+          "desc": "PENGISIAN DATA BARANG MASUK FROZEN & DRY",
+          "url": "https://docs.google.com/spreadsheets/d/1_h0tmoVGY8WV5iRbi94aI2pUiXDgP_9lW1X9JtTHiNc/edit?gid=1993383670#gid=1993383670"
+        },
+        {
+          "icon": "truck",
+          "name": "INCOMING EKSTERNAL",
+          "desc": "PENGISIAN DATA BARANG MASUK SABILA & SINOK",
+          "url": "https://docs.google.com/spreadsheets/d/1bgUj4KnSnfhjg1gM3dSTA2NwQxP5ARyItqvk42BhX80/edit?gid=207191212#gid=207191212"
+        }
+      ]
+    }
+  ]
+}
